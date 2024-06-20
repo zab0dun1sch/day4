@@ -1,0 +1,379 @@
+/* ср103№1 */
+#elem {
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 10px 20px 50px 60px;
+}
+/* ср104№1 */
+#elem2 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 10px 40px;
+}
+/* ср105№1 */
+#elem3 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 10px 40px 20px;
+}
+/* ср107№1 */
+#elem4 {
+	width: 100px;
+	height: 100px;
+	border: 1px solid green;
+	border-radius: 50%;
+}
+/* ср108№1 */
+#elem5 {
+	background-image: url("bg.png");
+	width: 400px;
+	height: 300px;
+	border: 3px solid black;
+}
+/* ср109№1 */
+#elem6 {
+	background-repeat: repeat-y;
+	background-image: url("bg.png");
+	width: 500px;
+	height: 300px;
+	border: 1px solid black;
+}
+/* ср109№2 */
+#elem7 {
+	background-repeat: repeat-x;
+	background-image: url("bg.png");
+	width: 400px;
+	height: 300px;
+	border: 1px solid black;
+}
+/* ср112№1 */
+ul {
+	list-style-type: square;
+}
+/* ср113№1 */
+ul2 {
+	list-style-type: circle;
+}
+/* ср115№1 */
+ul3 {
+	list-style-type: none;
+}
+/* ср119№1 */
+ol {
+	list-style-type: lower-alpha;
+}
+/* ср120№1 */
+ol2 {
+	list-style-type: upper-alpha;
+}
+/* ср121№1 */
+ol3 {
+	list-style-type: lower-greek;
+}
+/* ср123№1 */
+#parent {
+	width: 200px;
+    height: 200px;
+	border: 1px dashed blue;
+}
+
+#child {
+	height: 150px;
+	border: 1px solid orange;
+	margin: 30px;
+}
+/* ср123№2 */
+#parent2 {
+	width: 400px;
+	border: 1px dashed blue;
+}
+
+#child2 {
+	height: 250px;
+	border: 1px dashed green;
+	margin: 30px;
+}
+#child3 {
+	height: 200px;
+	border: 1px solid red;
+	margin: 30px;
+}
+/* ср124№1 */
+#parent4 {
+	width: 200px;
+    height: 250px;
+	border: 1px solid red;
+}
+#child4 {
+	margin-top:    40px; /* сверху */
+	margin-right:  20px; /* справа */
+	margin-bottom: 30px; /* снизу */
+	margin-left:   45px; /* слева */
+	
+	height: 100px;
+    width: 100px;
+	border: 1px solid green;
+}
+/* ср124№2 */
+#parent5 {
+	width: 200px;
+    height:200px ;
+	border: 1px solid red;
+}
+#child5 {
+	margin-top:    40px; 
+	margin-right:  60px; 
+	margin-bottom: 40px; 
+	margin-left:   20px; 
+	
+	height: 100px;
+    width: 150px;
+	border: 1px solid green;
+}
+/* ср124№3 */
+#parent6 {
+	width: 200px;
+    height: 125px;
+	border: 1px solid red;
+}
+#child6 {
+	margin-top:    10px; 
+	margin-right:  20px; 
+	margin-bottom: 30px; 
+	margin-left:   70px; 
+	
+	height: 100px;
+    width: 50px;
+	border: 1px solid green;
+}
+/* ср126№1 */
+#parent7 {
+	width: 200px;
+    height: 200px;
+	border: 1px solid orange;
+}
+#child7 {
+	height: 50px;
+    width: 150px;
+	border: 1px dashed blue;
+	margin: 30px 40px 30px 10px;
+}
+/* ср127№1 */
+#parent8 {
+	width: 200px;
+    height: 250px;
+	border: 1px solid orange;
+}
+
+#child8 {
+	height: 50px;
+    width: 100px;
+	border: 1px dashed blue;
+	margin: 100px 50px;
+}
+/* ср127№2 */
+#parent9 {
+	width: 200px;
+    height: 100px;
+	border: 1px solid orange;
+}
+
+#child9 {
+	height: 50px;
+    width: 100px;
+	border: 1px dashed blue;
+	margin: 25px 50px;
+}
+/* ср128№1 */
+#parent10 {
+	width: 150px;
+    height: 150px;
+	border: 1px solid orange;
+}
+
+#child10 {
+	height: 40px;
+    width: 80px;
+	border: 1px dashed blue;
+	margin: 80px 35px 20px;
+}
+/* ср128№2 */
+#parent11 {
+	width: 300px;
+    height: 100px;
+	border: 1px solid orange;
+}
+
+#child11 {
+	height: 40px;
+    width: 150px;
+	border: 1px dashed blue;
+	margin: 20px 75px 30px;
+}
+/* ср129№1 */
+#elem8 {
+	padding: 50px;
+	width: 200px;
+    height: 250px;
+	border: 1px solid red;
+	text-align: justify;
+}
+/* ср129№2 */
+#elem9 {
+	padding: 20px;
+	width: 600px;
+    height: 100;
+	border: 1px solid green;
+	text-align: justify;
+}
+/* ср130№1 */
+#elem10 {
+	padding-top:    50px; /* сверху */
+	padding-right:  40px; /* справа */
+	padding-bottom: 30px; /* снизу */
+	padding-left:   40px; /* слева */
+	height: 350px;
+	width: 150px;
+	border: 1px solid red;
+	text-align: justify;
+}
+/* ср131№1 */
+#elem11 {
+	padding-top:    10px; /* сверху */
+	padding-right:  30px; /* справа */
+	padding-bottom: 40px; /* снизу */
+	padding-left:   70px; /* слева */
+	height: 150px;
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+}
+/* ср131№2 */
+#elem12 {
+	padding: 60px 50px ;
+	height: 150px;
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+}
+/* ср131№3 */
+#elem13 {
+	padding: 10px 30px 20px ;
+	height: 200px;
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+}
+/* ср135№1 */
+#elem14 {
+	width: 100px;
+	height: 100px;
+	background: #f1f1f1;
+	margin-bottom: 20px;
+}
+
+#elem15 {
+	width: 100px;
+	height: 100px;
+	background: #f1f1f1;
+	padding: 25px; 
+	border: 10px solid green;  
+	box-sizing: border-box;  
+}
+/* ср147№1 */
+div1 {
+	display: inline;
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+}
+/* ср147№2 */
+a {
+	display: block;
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+	margin-bottom: 20px;
+}
+/* ср152№1 */
+div2 {
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	border: 1px solid red;
+	display: inline-block;
+}
+/* ср153№1 */
+.paren {
+    border: 1px solid red;
+}
+
+.chil {
+    height: 100px;
+    width: 100px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
+.chil2 {
+    height: 100px;
+    width: 250px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
+.chil3 {
+    height: 100px;
+    width: 400px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
+/* ср158№1 */
+.parent {
+	text-align: center;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+.child {
+	border: 1px solid green;
+}
+/* ср159№1 */
+.parents {
+	text-align: right;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+.childs {
+	border: 1px solid green;
+}
+/* ср159№2 */
+.parents1 {
+	text-align: right;
+	padding: 10px 0;
+	border: 1px solid red;
+    padding-right: 10px;
+}
+.childs1 {
+	border: 1px solid green;
+}
+/* ср161№1 */
+.parents2 {
+	text-align: center;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+.childs2 {
+	display: inline-block;
+	padding: 10px 20px;
+	border: 1px solid green;
+    margin: auto;
+}
+/* ср128№1 */
+/* ср128№1 */
+/* ср128№1 */
+/* ср128№1 */
+/* ср128№1 */
+/* ср128№1 */
+/* ср128№1 */
+/* ср128№1 */

@@ -1,0 +1,126 @@
+/* стр90№1 */
+#elem {
+	width: 200px;
+	height: 200px;
+	background-color: #7163b3; 
+}
+/* стр90№2 */
+#elem2 {
+	width: 300px;
+	height: 200px;
+	color: white;
+	background-color: rgb(81, 204, 44); /* задаем 
+		оранжевый цвет фона */ 
+}
+/* стр92№1 */
+#elem3 {
+	border-width: 6px;
+	border-style: solid;
+	border-color: blue;
+	width: 300px;
+	height: 200px;
+}
+/* стр93№1 */
+#elem4 {
+	border-width: 6px;
+	border-style: dotted;
+	border-color: red;
+	width: 300px;
+	height: 200px;
+}
+/* стр94№1 */
+#elem5 {
+	border-width: 3px;
+	border-style: dashed;
+	border-color: orange;
+	width: 300px;
+	height: 200px;
+}
+/* стр96№1 */
+#elem6 {
+	border-width: 10px;
+	border-style: double;
+	border-color: blue;
+	width: 300px;
+	height: 200px;
+}
+/* стр97№1 */
+#elem7 {
+	border: 1px solid red;
+	width: 300px;
+	height: 200px;
+}
+/* стр97№2 */
+#elem8 {
+	border: 2px dotted blue;
+	width: 300px;
+	height: 200px;
+}
+/* стр97№3 */
+#elem9 {
+	border: 3px dashed green;
+	width: 300px;
+	height: 200px;
+}
+/* стр97№4 */
+#elem10 {
+	border: 5px double orange;
+	width: 300px;
+	height: 200px;
+}
+/* стр98№1 */
+#elem11 {
+	width: 300px;
+	height: 200px;
+	border-left: 3px solid orange;
+	border-right: 3px solid green;
+    border-top: 3px solid blue ;
+    border-bottom: 3px solid red;
+}
+/* стр98№2 */
+#elem12 {
+	width: 300px;
+	height: 200px;
+	border-left: 3px solid red;
+	border-right: 3px dotted green;
+    border-top: 1px solid blue ;
+    border-bottom: 1px solid blue;
+}
+/* стр99№1 */
+#elem13 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 30px;
+}
+/* стр100№1 */
+#elem14 {
+	border-radius: 30px;
+	width: 200px;
+	height: 200px;
+	background-color: #59cc99;
+}
+/* стр101№1 */
+#elem15 {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	border: 1px solid green;
+}
+/* стр100№1 */
+/* стр100№1 */
+/* стр100№1 */
+/* стр100№1 */
+/* стр100№1 */
+/* стр100№1 */
+/* стр100№1 */
+/* стр100№1 */
+/* стр100№1 */
+/* стр100№1 */
+/* стр100№1 */
+/* стр100№1 */
+/* стр100№1 */
+/* стр100№1 */
+/* стр100№1 */
+/* стр100№1 */
+/* стр100№1 */

@@ -1,0 +1,375 @@
+/* <!-- стр.25№1 --> */
+p {
+	color: red;
+}
+/* <!-- стр.26№1 --> */
+p {
+	color: orange;
+}
+h1 {
+    color: green;
+}
+h2 {
+    color: blue;
+}
+h3 {
+    color: red;
+}
+/* <!-- стр.27№1 --> */
+p {
+	color: rgb(9, 183, 206);
+}
+p {
+	color: #5107b1;
+}
+/* <!-- стр.28№1 --> */
+p {
+    width: 300px;
+}
+/* <!-- стр.34№1 --> */
+h1 {
+    text-align: right;
+}
+/* <!-- стр.34№2 --> */
+h2 {
+    text-align: center;
+}
+/* <!-- стр.34№3 --> */
+table {
+    width: 500px;
+}
+/* <!-- стр.34№4 --> */
+th {
+    text-align: left;
+}
+/* <!-- стр.34№5 --> */
+td {
+    text-align: center;
+}
+/* <!-- стр.34№6 --> */
+p {
+    width: 300px;
+}
+/* <!-- стр.34№7 --> */
+p {
+    text-align: justify;
+}
+/* <!-- стр.34№8 --> */
+h2 {
+    text-align: center;
+    width: 300px;
+}
+/* <!-- стр.35№1 --> */
+td {
+    font-weight: bold;
+    text-align: center;
+}
+th {
+    font-weight: normal;
+}
+/* <!-- стр.36№1 --> */
+h2 {
+    font-style: italic;
+}
+/* <!-- стр.37№1 --> */
+h1 {
+    font-size:50px ;
+    text-align: center;
+}
+h2 {
+    font-size: 40px;
+    font-weight: normal;
+}
+p {
+    font-size: 30px;
+}
+/* <!-- стр.38№1 --> */
+p {
+    font-family: arial;
+}
+h1 {
+    font-family: Georgia;
+}
+/* <!-- стр.39№1 --> */
+p {
+	font-size: 30px;
+	line-height: 45px;
+	
+}
+/* <!-- стр.40№1 --> */
+p {
+	font-size: 30px;
+	line-height: 4.5;
+}
+/* <!-- стр.41№1 --> */
+p {
+    font: 13px/20px "Times New Roman";
+}
+/* <!-- стр.41№2 --> */
+p {
+    font: 300px bold red 40px Arial;
+}
+/* <!-- стр.41№3 --> */
+p {
+    font: bold italic 40px/60px Arial;
+}
+/* <!-- стр.42№1 --> */
+p {
+	text-indent: 50px;
+	text-align: justify;
+}
+/* <!-- стр.44№1 --> */
+p {
+	text-decoration: underline;
+}
+/* <!-- стр.45№1 --> */
+p {
+    color: red;
+    text-decoration: overline;
+}
+/* <!-- стр.46№1 --> */
+p {
+    color: green;
+    text-decoration: line-through;
+}
+/* <!-- стр.47№1 --> */
+p {
+	text-decoration: none;
+}
+a {
+	text-decoration: none;
+}
+p {
+    color: black;
+    font-size: 16px;
+    font-weight: 100px;
+    line-height: normal;
+    font-weight: normal;
+    font-family: Arial;
+}
+i {
+    color: green;
+}
+h1 {
+    color: blue;
+}
+h2 {
+    color: green;
+}
+p {
+	color: blue;
+}
+<p>
+	This is some <i>text</i> in paragraph.
+</p>
+/* * <!-- стр.50 --> */ 
+p {
+	color: blue;
+}
+b {
+	color: red;
+}
+
+b {
+	color: red;
+}
+p {
+	color: blue;
+}
+ul {
+	color: blue;
+}
+ul {
+	color: blue;
+}
+li {
+	color: red;
+}
+ul {
+	color: blue;
+}
+li {
+	color: red;
+}
+i {
+	color: green;
+}
+i {
+	font-size: 30px;
+}
+ul {
+	font-size: 20px;
+}
+li {
+	color: red;
+	font-weight: bold;
+}
+/* * <!-- стр.51№1 --> */
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+/* * <!-- стр.52№1 --> */
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+	color: blue;
+}
+h3 {
+	text-align: center;
+	font-size: 16px;
+	color: red;
+}
+/* * <!-- стр.52№2 --> */
+h1 {
+	text-align: center;
+	color: red;
+}
+h2 {
+	text-align: center;
+	color: red;
+}
+h3 {
+	text-align: center;
+	font-size: 16px;
+	color: red;
+}
+/* * <!-- стр.53№1 --> */
+li i {
+    color: red;
+}
+p  i {
+    color: green;
+}
+/* * <!-- стр.53№2 --> */
+p b i {
+    color: red;
+}
+/* * <!-- стр.54№1 --> */
+ul li b {
+    color: red;
+}
+/* * <!-- стр.55№1 --> */
+.odd {
+    color: red;
+}
+.eve {
+    color: green;
+}
+/* * <!-- стр.55№2 --> */
+.eee {
+    color: red;
+}
+/* * <!-- стр.56№1 --> */
+.xxx {
+    font-size: 30px;
+}
+
+/* * <!-- стр.57№1 --> */
+.block1 {
+    background-color: red;
+}
+.block2 {
+    background-color: green;
+}
+.block3 {
+    background-color: blue;
+}
+
+/* * <!-- стр.57№2 --> */
+.block4 {
+    background-color: red;
+}
+.block6 {
+    background-color: red;
+}
+.block5 {
+    background-color: green;
+}
+.block7 {
+    background-color: green;
+}
+/* * <!-- стр.58№1 --> */
+.eee {
+    font-size: 20px;
+}
+.zzz {
+    font-size: 30px;
+}
+.eee, .zzz  {
+    line-height: 1.5;
+    font-family: Arial;
+}
+/* * <!-- стр.58№2 --> */
+.eee {
+    font-size: 20px;
+}
+.zzz {
+    font-size: 30px;
+}
+.ggg {
+    font-size: 35px;
+}
+.eee, .zzz, .ggg  {
+    text-align: center;
+    font-family: Arial;
+}
+
+/* * <!-- стр.59№1 --> */
+h2.header {
+    font-size: 40px;
+}
+h3.header {
+    font-size: 30px;
+}
+
+/* * <!-- стр.60№1 --> */
+.eee i {
+    color: red;
+}
+/* * <!-- стр.63№1 --> */
+.success {
+	color: green;
+    font-size: large;
+}
+.error {
+	color: red;
+    font-size: smaller;
+}
+.large {
+	font-size: 30px;
+    color: red;
+}
+.small {
+	font-size: 20px;
+    color: green;
+}
+/* * <!-- стр.64№1 --> */
+.elem1 {
+    background-color: red;
+}
+.elem2 {
+    background-color: green;
+}
+.elem3 {
+    background-color: blue;
+}
+/* * <!-- стр.60№1 --> */
+/* * <!-- стр.60№1 --> */
+/* * <!-- стр.60№1 --> */
+/* * <!-- стр.60№1 --> */
+/* * <!-- стр.60№1 --> */
+/* * <!-- стр.60№1 --> */
+/* * <!-- стр.60№1 --> */
+/* * <!-- стр.60№1 --> */
+/* * <!-- стр.60№1 --> */
+/* * <!-- стр.60№1 --> */
+/* * <!-- стр.60№1 --> */
+

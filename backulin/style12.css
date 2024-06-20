@@ -1,0 +1,80 @@
+/* стр64№1 */
+#elem1 {
+    background-color: red;
+}
+#elem2 {
+    background-color: green;
+}
+#elem3 {
+    background-color: blue;
+}
+/* стр65№1 */
+#block {
+    color: brown;
+}
+.text {
+    color: rgb(0, 255, 242);
+}
+/* стр67№1 */
+.eee.zzz.ccc {
+	color: red;
+}
+/* стр70№1 */
+#block h2, #block h1 {
+	text-align: center;
+}
+/* стр70№2 */
+#block h1 {
+	font-size: 30px;
+}
+#block h2 {
+    font-size: 20px;
+}
+#block h2, #block h1 {
+	text-align: center;
+}
+/* стр71№1 */
+#block h2 {
+	color: blue;
+}
+#block h3 {
+	font-size: 16px;
+	color: red;
+}
+#block h2, #block h1, #block h3 {
+	text-align: center;
+}
+/* стр71№2 */
+#block h1.eee {
+	font-size: 30px;
+}
+#block h2.zzz {
+	font-size: 20px;
+}
+#block h2.zzz, #block h1.eee {
+	text-align: center;
+}
+/* стр71№3 */
+.xxx .kkk, .eee h2.zzz, #eee h2 {
+    text-align: center;
+}
+/* стр71№4 */
+.xxx .eee h2.zzz {
+    text-align: center;
+}
+/* стр77№1 */
+ul li #elem {
+    color: blue;
+}
+/* стр77№2 */
+ul li .elem {
+    color: red;
+}
+/* стр78№1 */
+.test ~ #elem {
+	color: red;
+}
+/* стр79№1 */
+main * {
+	color: red;
+}

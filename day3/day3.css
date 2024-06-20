@@ -1,0 +1,140 @@
+/* стр80 */
+input[title] {
+	background-color: #C2DDFD;
+}
+p[title] {
+	background-color: #C2DDFD;
+}
+p[title="hello"] {
+	background-color: #C2DDFD;
+}
+a[href^="http://"] {
+	color: red;
+}
+a[href$=".html"] {
+	color: red;
+}
+p[class~="test"] {
+	color: blue;
+}
+p[class|="top"] {
+	color: red;
+}
+/* стр82№1 */
+a:link {
+	color: blue;
+}
+a:visited {
+	color: green;
+}
+a:hover {
+    color: red;
+    text-decoration: none;
+	
+}
+a:active {
+	color: black;
+}
+/* стр84№1 */
+a {
+	color: blue;
+    text-decoration: none;
+}
+a:hover {
+	color: red;
+}
+/* стр87№1 */
+li:first-child {
+	color: red;
+}
+/* стр87№2 */
+li:last-child {
+	color: green;
+}
+/* стр87№3 */
+li:first-child {
+	color: red;
+}
+li:last-child {
+	color: green;
+}
+/* стр87№4 */
+li:nth-child(3) {
+	color: red;
+}
+/* стр87№5 */
+li:nth-child(odd) {
+	color: red;
+}
+li:nth-child(even) {
+	color: green;
+}
+/* стр87№6 */
+li:nth-child(3n) {
+	color: red;
+}
+/* стр87№7 */
+li:nth-last-child(2) {
+	color: red;
+}
+/* стр87№8 */
+li:only-child {
+	color: red;
+}
+
+ul {
+	margin-bottom: 10px;
+}
+/* стр87№9 */
+li:empty {
+    border: 1px solid blue;
+    list-style-type: circle;
+    color: blue;
+    width: 100px;
+}
+div  {
+    border: 1px solid red;
+    list-style-type: circle;
+    color: red;
+    width: 100px;
+} 
+/* стр88№1 */
+p:first-of-type {
+	color: red;
+}
+h2:last-of-type {
+	color: red;
+}
+/* стр88№2 */
+h2:nth-of-type(2) {
+	color: red;
+}
+
+h2:nth-of-type(even) {
+	color: red;
+}
+/* стр88№3 */
+div {
+	border: 1px dashed black;
+	padding: 15px;
+	margin-bottom: 10px;
+}
+h2:only-of-type {
+	color: red;
+} */
+/* стр89№1 */
+li:not(.elem) {
+	color: rgb(30, 196, 207);
+}
+/* стр89№2 */
+li:not(:first-child) {
+	color: green;
+}
+/* стр89№3 */
+li:not(:last-child) {
+	color: green;
+}
+li:not(:first-child) {
+	color: rgb(243, 227, 0);
+}
+
